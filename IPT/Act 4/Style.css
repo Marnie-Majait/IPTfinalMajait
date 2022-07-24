@@ -1,0 +1,106 @@
+body {
+	background-image: url('back.jpg');
+	background-position : relative; 
+	background-size: 100% 100%; 
+	background-repeat: no-repeat;
+	
+	}
+h1 {
+	color: #66FCF1; 
+	border-style : solid;
+	font-family: monospace;
+	font-size:60px;
+	border-radius: 5px;
+	
+	
+	
+}
+h4 {
+	border-style : solid;
+	border-color : gray;
+	border-right: 0px;
+	border-left : 0px;
+	border-spacing : 2px;
+	padding : 5px;
+	border-radius: 5px;
+	width: 50%;
+	height:12%;
+	
+}
+h4 img {
+	border:solid;
+	border-color: black;
+	padding: 10px;
+}
+
+	
+
+.google {
+	border-style:solid;
+	border-color:#45A29E;
+	border-radius: 5px;
+	
+}
+.google p{
+	color: #c5c6c7;
+	font-family: monospace;
+}
+.facebook {
+	border-style:solid;
+	border-color:#45A29E;
+	border-radius: 5px;
+	margin-top:10px;
+	
+}
+.facebook p{
+	color: #c5c6c7;
+	font-family: monospace;
+}
+.reddit {
+	border-style:solid;
+	border-color:#45A29E;
+	border-radius: 5px;
+	margin-top:10px;
+}
+.reddit p{
+	color: #c5c6c7;
+	font-family: monospace;
+}
+
+.manganato {
+	border-style:solid;
+	border-color:#45A29E;
+	border-radius: 5px;
+	margin-top:10px;
+}
+.manganato p{
+	color: #c5c6c7;
+	font-family: monospace;
+}
+
+.tumblr { 
+	border-style:solid;
+	border-color:#45A29E;
+	border-radius: 5px;
+	margin-top:10px;
+}
+.tumblr p{
+	color: #c5c6c7;
+	font-family: monospace;
+}
+a {
+  text-decoration: none;
+}
+
+.facebook h2:hover{transform: scale(1.2);}
+.google h2:hover{transform: scale(1.2);}
+.reddit h2:hover{transform: scale(1.2);}
+.manganato h2:hover{transform: scale(1.2);}
+.tumblr h2:hover{transform: scale(1.2);}
+	
+
+h1:hover {transform: scale(1.1);}
+h4:hover{background-color: gray;}
+p:hover, p:active {font-size: 120%; background-color:#3c6478;}
+
+

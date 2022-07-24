@@ -1,0 +1,132 @@
+@font-face { font-family: Minecrafter; src: url('Minecrafter.TTF'); } 
+@font-face { font-family: Minecrafter_Reg; src: url('Minecrafter_Reg.TTF'); } 
+@font-face { font-family: Minecraftia; src: url('Minecraftia-Regular.TTF'); }
+
+body {
+	background-image: url('back.png');
+	background-position : relative; 
+	background-size: 100% 100%; 
+	background-repeat: no-repeat;
+	
+	}
+h1 {
+	color: #b4aba6; 
+	letter-spacing: 5px;
+	font-family: Minecrafter;
+	font-size:70px;
+	margin-top: 10px;
+	
+	
+	
+	
+}
+
+
+.google {
+	border-style : solid; 
+	border-color : #555555; 
+	padding-bottom: 1px;
+	background-color: #212121;
+	border-radius: 10px;
+	font-family: Minecraftia;
+	margin-bottom: 10px;
+	width: 80%;
+	height: 40%;
+			
+	
+}
+.google p{
+	color: #7f7f7f;
+	font-family: Minecraftia;
+}
+.google img {
+	float:left;
+	padding-left: 5px;
+}
+.facebook {
+	border-style : solid; 
+	border-color : #555555; 
+	padding-bottom: 1px;
+	background-color: #212121;
+	border-radius: 10px;
+	font-family: Minecraftia;
+	margin-bottom: 10px;
+	width: 80%;
+	height: 40%;
+}
+.facebook p{
+	color: #7f7f7f;
+	font-family: Minecraftia;
+}
+.facebook img {
+	float:left;
+	padding-left: 5px;
+}
+.reddit {
+	border-style : solid; 
+	border-color : #555555; 
+	padding-bottom: 1px;
+	background-color: #212121;
+	border-radius: 10px;
+	font-family: Minecraftia;
+	margin-bottom: 10px;
+	width: 80%;
+	height: 40%;
+}
+.reddit p{
+	color: #7f7f7f;
+	font-family: Minecraftia;
+}
+.reddit img {
+	float:left;
+	padding-left: 5px;
+}
+
+.manganato {
+	border-style : solid; 
+	border-color : #555555; 
+	padding-bottom: 1px;
+	background-color: #212121;
+	border-radius: 10px;
+	font-family: Minecraftia;
+	margin-bottom: 10px;
+	width: 80%;
+	height: 40%;
+}
+.manganato p{
+	color: #7f7f7f;
+	font-family: Minecraftia;
+}
+.manganato img {
+	float:left;
+	padding-left: 5px;
+}
+
+.tumblr { 
+	border-style : solid; 
+	border-color : #555555; 
+	padding-bottom: 1px;
+	background-color: #212121;
+	border-radius: 10px;
+	font-family: Minecraftia;
+	margin-bottom: 10px;
+	width: 80%;
+	height: 40%;
+}
+.tumblr p{
+	color: #7f7f7f;
+	font-family: Minecraftia;
+}
+.tumblr img {
+	float:left;
+	padding-left: 5px;
+}
+.back a {
+			text-decoration: none;
+			float: left;
+		}
+		
+
+
+p:hover, p:active {font-size: 110%;}
+

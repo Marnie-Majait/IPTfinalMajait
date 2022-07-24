@@ -1,0 +1,6 @@
+Hello!
+This is my final project on Integrative Programming and Techniques.
+
+This is inspired by the block video game, and one of my favorite game, Minecraft.
+
+I didn't use Bootstrap so please adjust the size of the webpage until you see something similar to the Minecraft title screen.

@@ -1,0 +1,134 @@
+@font-face { font-family: Minecrafter; src: url('Minecrafter.TTF'); } 
+@font-face { font-family: Minecrafter_Reg; src: url('Minecrafter_Reg.TTF'); } 
+@font-face { font-family: Minecraftia; src: url('Minecraftia-Regular.TTF'); } 
+
+
+
+body {
+	background-image: url('back.png');
+	background-position : relative; 
+	background-size: 100% 100%; 
+	background-repeat: no-repeat;
+	
+	
+	}
+h1 {
+	color: #b4aba6;
+	font-family: Minecrafter;
+	font-size:60px;
+	border-radius: 5px;
+	letter-spacing: 3px;
+	
+	
+}
+h3 {
+	color: white; 
+	padding : 5px;
+	font-family: Minecraftia;
+	border-radius: 5px;
+	float:center;
+	width: 50%;
+	height:10%;
+	font-size: 40px;
+	letter-spacing: 3px;
+	margin-bottom: 5px;
+}
+
+h4{
+	text-align: center;
+	font-size: 20px;
+	font-family: Minecraftia;
+	color: white;
+}
+p {
+	color: #656565;
+	font-family: Minecraftia;
+}
+.home {
+	border-style:solid;
+	border-width:100%;
+	border-color:#545454;
+	border-radius: 5px;
+	width: 80%;
+	height: 60%;
+	padding: 5px;
+	margin: 10px;
+	
+	
+
+}
+.home img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  
+}
+
+.third_activity {
+		border-style:solid;
+	border-width:100%;
+	border-color:#545454;
+	border-radius: 5px;
+	width: 80%;
+	height: 60%;
+	padding: 5px;
+	margin: 10px;
+	
+	
+	
+
+}
+.third_activity img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.user {
+	border-style:solid;
+	border-style:solid;
+	border-width:100%;
+	border-color:#545454;
+	border-radius: 5px;
+	width: 80%;
+	height: 60%;
+	padding: 5px;
+	margin: 10px;
+	
+	
+	
+
+}
+.user img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.family {
+	border-style:solid;
+	border-width:100%;
+	border-color:#545454;
+	border-radius: 5px;
+	width: 80%;
+	height: 60%;
+	padding: 5px;
+	margin: 10px;
+	
+	
+
+}
+.family img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.back a {
+			text-decoration: none;
+			float: left;
+		}
+
+
+
+.home:hover, p:active {background-color:black; opacity: 0.7;}
+.third_activity:hover, p:active {background-color:black; opacity: 0.7;}
+.user:hover, p:active {background-color:black; opacity: 0.7;}
+.family:hover, p:active {background-color:black; opacity: 0.7;}
